@@ -1,42 +1,34 @@
 # Universal Data Analytics Dashboard
 
-An interactive data analytics web application built with Python, Streamlit, Pandas, NumPy, and Plotly.
+🚀 **Live Demo:** [Open Universal Data Analytics Dashboard](https://universal-data-analytics-dashboard-jckwjxrbvq9daqqfak4s65.streamlit.app/)
+
+An interactive data analytics web application built with Python and Streamlit to simplify data exploration and visualization.
 
 ## Features
 
-- Upload CSV and Excel datasets
-- Automatic KPI cards
-- Automatic statistical insights in simple English
-- Data-quality analysis and missing-value handling
-- Interactive filters for dates, categories, and numeric values
-- Automatic chart recommendations with explanations
-- Date intelligence: daily, weekly, monthly, quarterly, and yearly analysis
-- Custom chart builder
-- Download cleaned and filtered data as CSV
+- 📊 Automatic KPI cards
+- 💡 Automatic statistical insights in simple English
+- 🧹 Data cleaning and quality reports
+- 📈 Smart charts with explanations of why each chart is used
+- 🔎 Interactive data filters
+- 📅 Date intelligence and trend analysis
+- 🛠️ Custom chart builder
+- 📥 Download cleaned and filtered data as CSV
 
 ## Tech Stack
 
-- Python
-- Streamlit
-- Pandas
-- NumPy
-- Plotly
-- OpenPyXL
+Python, Streamlit, Pandas, NumPy, Plotly, OpenPyXL
 
 ## Run Locally
 
-Install the dependencies:
+Install dependencies:
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-Start the application:
+Run the application:
 
 ```bash
 python -m streamlit run app.py
 ```
-
-## Purpose
-
-This project demonstrates data analysis, data cleaning, statistical interpretation, data visualization, and interactive dashboard development.
